@@ -1,16 +1,6 @@
-//
-// Created by olek on 30.05.25.
-//
-
 #ifndef EXECUTE_H
 #define EXECUTE_H
 
+void execute(int i,int j,int k,int l);
 
-
-class execute {
-
-};
-
-
-
-#endif //EXECUTE_H
+#endif
